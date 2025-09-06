@@ -1,6 +1,6 @@
 # WIFI CONNECTION TO HOMES
 
-![Wifi Connection](/images/05-09-2025/wifi_connection.jpg)
+![Wifi Connection](/images/September-2025/05-09-2025/wifi_connection.jpg)
 
 
 ## 🟢 Naive / Everyday Explanation
@@ -104,8 +104,8 @@ For most common home setups, the incoming cable is **not** an Ethernet cable, bu
 ---
 
 ## Images
-![Wifi modem](/images/05-09-2025/modems.webp)
-![Wifi router](/images/05-09-2025/wifi_router.jpg)
+![Wifi modem](/images/September-2025//05-09-2025/modems.webp)
+![Wifi router](/images/September-2025//05-09-2025/wifi_router.jpg)
 
 [1](https://thenetworkinstallers.com/blog/fiber-internet-installation/)
 [2](https://amorserv.com/insights/fiber-to-the-home-installation-procedure)
