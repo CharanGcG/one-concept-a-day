@@ -1,4 +1,4 @@
-# ONCE_CONCEPT_A_DAY
+# ONE_CONCEPT_A_DAY
 
 Welcome to **once_concept_a_day** – a personal journey where a curious Computer Science student explores and documents one concept each day, from software engineering, system design, and computer networks to algorithms, programming, and more.
 
