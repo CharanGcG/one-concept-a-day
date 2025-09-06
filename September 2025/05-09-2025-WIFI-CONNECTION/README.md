@@ -1,6 +1,6 @@
 # WIFI CONNECTION TO HOMES
 
-![Wifi Connection](../images/05-09-2025/wifi_connection.jpg)
+![Wifi Connection](/images/05-09-2025/wifi_connection.jpg)
 
 
 ## 🟢 Naive / Everyday Explanation
