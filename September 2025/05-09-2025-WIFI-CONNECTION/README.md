@@ -100,6 +100,13 @@ Now let’s peek under the hood.
 
 For most common home setups, the incoming cable is **not** an Ethernet cable, but a coaxial cable or a fiber optic cable. The Ethernet cable is used *inside your home*, between modem/ONT and router, and sometimes between router and device.
 
+
+---
+
+## Images
+![Wifi modem](/images/05-09-2025/modems.webp)
+![Wifi router](/images/05-09-2025/wifi_router.jpg)
+
 [1](https://thenetworkinstallers.com/blog/fiber-internet-installation/)
 [2](https://amorserv.com/insights/fiber-to-the-home-installation-procedure)
 [3](https://www.optimum.com/articles/internet/fiber-optic-cable-installation)
