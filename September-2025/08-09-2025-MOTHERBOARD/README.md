@@ -1,5 +1,7 @@
 ### 🔹 **Major Components on a Motherboard**
 
+![Motherboard](/images/September-2025/08-09-2025/motherboard.jpg)
+
 1. **CPU Socket**
 
    * A special slot where the processor (CPU) is installed.
