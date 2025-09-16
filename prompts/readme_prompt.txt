@@ -1,0 +1,5 @@
+Based on our discussion and your knowledge base:
+
+Create a structured README file that explains the concept of {Concept} in a comprehensive and approachable way. The README should begin with a simple, non-technical explanation for beginners, describing what {Concept} means in everyday terms. Then, gradually progress to beginner-friendly and technical explanations, covering how {Concept} works in practice, its key processes, and its role in systems or applications.
+
+Include a clear section comparing or differentiating {Needed_Comparison_or_Related_Term} (e.g., Download vs Install, Compile vs Run, etc.), highlighting how they differ and how they complement each other. Organize the content into logically structured sections with headings, bullet points, and examples so it is accessible to audiences at multiple knowledge levels (non-technical users, beginners, and advanced professionals).
