@@ -6,7 +6,7 @@
 ![Satellites around earth](/images/September-2025/13-09-2025/total%20satellites.jpg)
 ![Receiver chip on mobile](/images/September-2025/13-09-2025/Receiver%20chip.jpg)
 
-Above images shows satellites and the receiver chip on our mobiles
+Above images show satellites and the receiver chip on our mobiles
 
 Think about when you use **Google Maps** to find a coffee shop or when a food delivery app tracks your order. Your phone somehow knows **exactly where you are**. That’s thanks to **GPS (Global Positioning System)** — a worldwide “location service” powered by satellites in space.
 
