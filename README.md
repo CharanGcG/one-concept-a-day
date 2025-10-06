@@ -14,11 +14,13 @@ This repo serves as a structured logbook of daily technical exploration. Each da
 - Concepts are organized by **month** and **date**, e.g.:
   ```
   images/
-  September-2025/
-    05-09-2025-WIFI-CONNECTION/
-      README.md
-    06-09-2025-GPU/
-      README.md
+  2025/
+    September-2025/
+      05-09-2025-WIFI-CONNECTION/
+        README.md
+      06-09-2025-GPU/
+        README.md
+    October-2025/
   ```
 - Any related images or resources are kept in the `images` folder or under the relevant date.
 
