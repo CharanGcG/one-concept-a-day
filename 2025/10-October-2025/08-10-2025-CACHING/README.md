@@ -8,6 +8,8 @@ In simple terms:
 
 > “Instead of fetching data from the slow source every time, keep a copy somewhere faster.”
 
+![Caching](/images/2025/October-2025/08-10-2025/Cache-Working.jpg)
+
 ---
 
 ## ⚙️ Real-world analogy
@@ -48,6 +50,9 @@ User -> Application Server -> Cache -> Database
 | **Database cache**     | Between DB and app                     | Redis, Memcached                         |
 | **Query result cache** | Stores results of expensive DB queries | MySQL query cache, PostgreSQL plan cache |
 
+
+![Client side caching](/images/2025/October-2025/08-10-2025/client-side-caching.png)
+
 ---
 
 ## 🧮 Common Cache Strategies
@@ -58,6 +63,9 @@ User -> Application Server -> Cache -> Database
 | **Write-back / Write-behind**  | Data written to cache, DB updated later asynchronously | Better performance, risk of data loss |
 | **Write-around**               | Writes go directly to DB, cache updated only on reads  | Prevents cache pollution              |
 | **Cache-aside (lazy loading)** | App checks cache first, loads from DB if missing       | Most common pattern                   |
+
+
+![Caching Strategies](/images/2025/October-2025/08-10-2025/caching%20strategies.webp)
 
 ---
 
